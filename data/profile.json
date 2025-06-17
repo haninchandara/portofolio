@@ -5,7 +5,7 @@
     "email": "haninchandara@gmail.com",
     "phone": "+62 (895) 398940312 ",
     
-    ],
+    
     "cv": {
 			"text": "Download CV",
 			"file": "docs/cv.pdf",
@@ -14,10 +14,10 @@
     "skills": [
         
        
-        {"name": "Internet of Things", "icon": "fas fa-wifi", },
-        {"name": "Hardware Design", "icon": "fas fa-desktop",},
-	{"name": "Project Management", "icon": "fas fa-list-check", },
-	{"name": "Academic Writing", "icon": "fas fa-pen",},
-	{"name": "Foreign Languages", "icon": "fas fa-language", }
+        {"name": "Internet of Things", "icon": "fas fa-wifi" },
+        {"name": "Hardware Design", "icon": "fas fa-desktop"},
+	{"name": "Project Management", "icon": "fas fa-list-check" },
+	{"name": "Academic Writing", "icon": "fas fa-pen"},
+	{"name": "Foreign Languages", "icon": "fas fa-language"}
     ]
 }
