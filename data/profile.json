@@ -8,7 +8,7 @@
     
     "cv": {
 			"text": "Download CV",
-			"file": "docs/cv.pdf",
+			"file": "docs/hanincv.pdf",
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
