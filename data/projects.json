@@ -6,9 +6,5 @@
         "role": "Lead Researcher",
         "description": "Developed and designed a portable, battery powered security system using ESP32-CAM to detect human presence and capture real-time images.",
         
-        
-    }
-    
-   
-	
+    }	
 ]
